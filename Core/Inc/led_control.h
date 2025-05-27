@@ -9,7 +9,7 @@
 #define INC_LED_CONTROL_H_
 
 #include "main.h"
-#include "spi.h"
+//#include "spi.h"
 #include "software_timer.h"
 
 // Some macro

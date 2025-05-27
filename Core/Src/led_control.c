@@ -35,7 +35,7 @@ void LED_init(){
  * @retval None
  */
 void latch_data(uint8_t data){
-  HAL_SPI_Transmit(&hspi1, &data, 1, 1000);
+//  HAL_SPI_Transmit(&hspi1, &data, 1, 1000);
   HAL_GPIO_WritePin(LED_LATCH_GPIO_Port, LED_LATCH_Pin, GPIO_PIN_SET);
   HAL_GPIO_WritePin(LED_LATCH_GPIO_Port, LED_LATCH_Pin, GPIO_PIN_RESET);
 };
