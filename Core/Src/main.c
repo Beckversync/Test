@@ -17,13 +17,11 @@
   */
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
-#include "main.h"
 
-#include "buzzer.h"
-#include "spi.h"
+#include <testMotor.h>
+#include "main.h"
 #include "tim.h"
 #include "gpio.h"
-
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
@@ -93,51 +91,66 @@ int main(void)
 
   /* Initialize all configured peripherals */
   MX_GPIO_Init();
-
-  MX_SPI1_Init();
   MX_TIM2_Init();
+  MX_TIM3_Init();
+  MX_TIM8_Init();
   /* USER CODE BEGIN 2 */
-  HAL_TIM_Base_Start_IT(&htim2);
+//  HAL_TIM_Base_Start_IT(&htim2);
+//  HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_1);
+//  HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_2);
+//  HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_3);
+//  HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_4);
+//  HAL_TIM_PWM_Start(&htim2,TIM_CHANNEL_1);
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-  LED_init();
-  uint8_t count = 0;
-  setTimer(0, 1000);
+//  LED_init();
+//  uint8_t count = 0;
+//  setTimer(0, 1000);
+//
+//  uint8_t arr_data = 0b11111110;
+//  uint8_t dir = 1;
+//  setTimer(2, 100);
 
-  uint8_t arr_data = 0b11111110;
-  uint8_t dir = 1;
-  setTimer(2, 100);
+//  //Test Buzzer
+//  Buzzer_PWM_Init();
+//  Buzzer_PWM_On(4000);   // 4 kHz
+//  HAL_Delay(500);
+//  Buzzer_PWM_Off();
+
+  // Test Servo
+  HAL_Init();
+  SystemClock_Config();
+
+  MX_GPIO_Init();
+  MX_TIM8_Init();
+
+  Motor_Init();
+  Motor_Test();
   while (1)
   {
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-
-	  play_startup_sound();
-	  HAL_Delay(5000);
-	  mario_startup_melody();
-	  HAL_Delay(5000);
-
-	  LED_fsm_run();
-	  if(getFlag(0) == 1){
-		  setTimer(0, 1000);
-		  count++;
-		  set_seg_12(count);
-	  };
-
-	  if(getFlag(2) == 1){
-		  setTimer(2, 100);
-		  set_led_array(arr_data);
-		  if(dir){
-			  arr_data = (arr_data << 1) + 1;
-			  if(arr_data == 0b01111111) dir = 0;
-		  }else{
-			  arr_data = (arr_data >> 1) + 0b10000000;
-			  if(arr_data == 0b11111110) dir = 1;
-		  }
-	  }
+//	  LED_fsm_run();
+//	  if(getFlag(0) == 1){
+//		  setTimer(0, 1000);
+//		  count++;
+//		  set_seg_12(count);
+//	  };
+//
+//	  if(getFlag(2) == 1){
+//		  setTimer(2, 100);
+//		  set_led_array(arr_data);
+//		  if(dir){
+//			  arr_data = (arr_data << 1) + 1;
+//			  if(arr_data == 0b01111111) dir = 0;
+//		  }else{
+//			  arr_data = (arr_data >> 1) + 0b10000000;
+//			  if(arr_data == 0b11111110) dir = 1;
+//		  }
+//	  }
 
   }
   /* USER CODE END 3 */
