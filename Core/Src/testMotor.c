@@ -6,7 +6,7 @@
  */
 
 
-#include "motor_test.h"
+#include <testMotor.h>
 
 extern TIM_HandleTypeDef htim8;
 

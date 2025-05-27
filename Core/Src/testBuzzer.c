@@ -4,7 +4,7 @@
  *  Created on: May 27, 2025
  *      Author: Dell
  */
-#include "buzzer.h"
+#include <testBuzzer.h>
 
 extern TIM_HandleTypeDef htim2;
 
@@ -13,9 +13,9 @@ void Buzzer_PWM_Init(void) {
 }
 
 void Buzzer_PWM_On(uint32_t freq) {
-    uint32_t timer_clock = 639;
-    uint32_t prescaler = 0;
-    uint32_t period = (timer_clock / freq) - 1;
+//    uint32_t timer_clock = 0;
+    uint32_t prescaler = 639;
+    uint32_t period = 100;
 
     __HAL_TIM_SET_PRESCALER(&htim2, prescaler);
     __HAL_TIM_SET_AUTORELOAD(&htim2, period);

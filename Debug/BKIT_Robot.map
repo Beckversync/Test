@@ -95,10 +95,10 @@ Discarded input sections
  .text.Buzzer_PWM_Init
                 0x00000000       0x14 ./Core/Src/Buzzer.o
  .text.Buzzer_PWM_On
-                0x00000000       0x54 ./Core/Src/Buzzer.o
+                0x00000000       0x48 ./Core/Src/Buzzer.o
  .text.Buzzer_PWM_Off
                 0x00000000       0x14 ./Core/Src/Buzzer.o
- .debug_info    0x00000000      0x6b6 ./Core/Src/Buzzer.o
+ .debug_info    0x00000000      0x6a9 ./Core/Src/Buzzer.o
  .debug_abbrev  0x00000000      0x1a6 ./Core/Src/Buzzer.o
  .debug_aranges
                 0x00000000       0x30 ./Core/Src/Buzzer.o
@@ -141,8 +141,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x8ed ./Core/Src/Buzzer.o
  .debug_macro   0x00000000       0xb5 ./Core/Src/Buzzer.o
  .debug_macro   0x00000000       0x4c ./Core/Src/Buzzer.o
- .debug_line    0x00000000      0x713 ./Core/Src/Buzzer.o
- .debug_str     0x00000000    0x903c3 ./Core/Src/Buzzer.o
+ .debug_line    0x00000000      0x70d ./Core/Src/Buzzer.o
+ .debug_str     0x00000000    0x903b7 ./Core/Src/Buzzer.o
  .comment       0x00000000       0x44 ./Core/Src/Buzzer.o
  .debug_frame   0x00000000       0x6c ./Core/Src/Buzzer.o
  .ARM.attributes
