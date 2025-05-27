@@ -26,6 +26,7 @@
 #include "software_timer.h"
 #include "led_control.h"
 #include "Buzzer.h"
+#include "motor_test.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -92,6 +93,7 @@ int main(void)
   MX_GPIO_Init();
   MX_TIM2_Init();
   MX_TIM3_Init();
+  MX_TIM8_Init();
   /* USER CODE BEGIN 2 */
 //  HAL_TIM_Base_Start_IT(&htim2);
 //  HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_1);
@@ -110,10 +112,22 @@ int main(void)
 //  uint8_t arr_data = 0b11111110;
 //  uint8_t dir = 1;
 //  setTimer(2, 100);
-  Buzzer_PWM_Init();
-  Buzzer_PWM_On(4000);   // 4 kHz
-  HAL_Delay(500);
-  Buzzer_PWM_Off();
+
+//  //Test Buzzer
+//  Buzzer_PWM_Init();
+//  Buzzer_PWM_On(4000);   // 4 kHz
+//  HAL_Delay(500);
+//  Buzzer_PWM_Off();
+
+  // Test Servo
+  HAL_Init();
+  SystemClock_Config();
+
+  MX_GPIO_Init();
+  MX_TIM8_Init();
+
+  Motor_Init();
+  Motor_Test();
   while (1)
   {
     /* USER CODE END WHILE */
