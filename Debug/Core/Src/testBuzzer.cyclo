@@ -1,0 +1,3 @@
+../Core/Src/testBuzzer.c:11:6:Buzzer_PWM_Init	1
+../Core/Src/testBuzzer.c:15:6:Buzzer_PWM_On	1
+../Core/Src/testBuzzer.c:26:6:Buzzer_PWM_Off	1

@@ -53,45 +53,6 @@ Discarded input sections
  .ARM.exidx     0x00000000       0x10 D:/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
  .ARM.attributes
                 0x00000000       0x1b D:/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .group         0x00000000        0xc ./Core/Src/Buzzer.o
- .text          0x00000000        0x0 ./Core/Src/Buzzer.o
- .data          0x00000000        0x0 ./Core/Src/Buzzer.o
- .bss           0x00000000        0x0 ./Core/Src/Buzzer.o
  .group         0x00000000        0xc ./Core/Src/gpio.o
  .group         0x00000000        0xc ./Core/Src/gpio.o
  .group         0x00000000        0xc ./Core/Src/gpio.o
@@ -131,42 +92,6 @@ Discarded input sections
  .text          0x00000000        0x0 ./Core/Src/gpio.o
  .data          0x00000000        0x0 ./Core/Src/gpio.o
  .bss           0x00000000        0x0 ./Core/Src/gpio.o
- .debug_macro   0x00000000      0xaa8 ./Core/Src/gpio.o
- .debug_macro   0x00000000      0x215 ./Core/Src/gpio.o
- .debug_macro   0x00000000       0x2e ./Core/Src/gpio.o
- .debug_macro   0x00000000       0x22 ./Core/Src/gpio.o
- .debug_macro   0x00000000       0x22 ./Core/Src/gpio.o
- .debug_macro   0x00000000       0x8e ./Core/Src/gpio.o
- .debug_macro   0x00000000       0x51 ./Core/Src/gpio.o
- .debug_macro   0x00000000      0x103 ./Core/Src/gpio.o
- .debug_macro   0x00000000       0x6a ./Core/Src/gpio.o
- .debug_macro   0x00000000      0x1df ./Core/Src/gpio.o
- .debug_macro   0x00000000       0x1c ./Core/Src/gpio.o
- .debug_macro   0x00000000       0x22 ./Core/Src/gpio.o
- .debug_macro   0x00000000       0xbd ./Core/Src/gpio.o
- .debug_macro   0x00000000      0xd23 ./Core/Src/gpio.o
- .debug_macro   0x00000000     0xfd8c ./Core/Src/gpio.o
- .debug_macro   0x00000000       0x6d ./Core/Src/gpio.o
- .debug_macro   0x00000000     0x34a2 ./Core/Src/gpio.o
- .debug_macro   0x00000000      0x189 ./Core/Src/gpio.o
- .debug_macro   0x00000000       0x5c ./Core/Src/gpio.o
- .debug_macro   0x00000000      0x5bc ./Core/Src/gpio.o
- .debug_macro   0x00000000      0x4d5 ./Core/Src/gpio.o
- .debug_macro   0x00000000      0x1cb ./Core/Src/gpio.o
- .debug_macro   0x00000000      0x114 ./Core/Src/gpio.o
- .debug_macro   0x00000000      0x1ea ./Core/Src/gpio.o
- .debug_macro   0x00000000       0x27 ./Core/Src/gpio.o
- .debug_macro   0x00000000      0x144 ./Core/Src/gpio.o
- .debug_macro   0x00000000      0x1bc ./Core/Src/gpio.o
- .debug_macro   0x00000000       0x30 ./Core/Src/gpio.o
- .debug_macro   0x00000000       0x3c ./Core/Src/gpio.o
- .debug_macro   0x00000000       0x57 ./Core/Src/gpio.o
- .debug_macro   0x00000000       0x87 ./Core/Src/gpio.o
- .debug_macro   0x00000000      0x24f ./Core/Src/gpio.o
- .debug_macro   0x00000000      0x140 ./Core/Src/gpio.o
- .debug_macro   0x00000000      0x8ed ./Core/Src/gpio.o
- .debug_macro   0x00000000       0xb5 ./Core/Src/gpio.o
- .debug_macro   0x00000000       0x34 ./Core/Src/gpio.o
  .group         0x00000000        0xc ./Core/Src/led_control.o
  .group         0x00000000        0xc ./Core/Src/led_control.o
  .group         0x00000000        0xc ./Core/Src/led_control.o
@@ -863,6 +788,81 @@ Discarded input sections
  .debug_macro   0x00000000      0x140 ./Core/Src/system_stm32f1xx.o
  .debug_macro   0x00000000      0x8ed ./Core/Src/system_stm32f1xx.o
  .debug_macro   0x00000000       0xb5 ./Core/Src/system_stm32f1xx.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .group         0x00000000        0xc ./Core/Src/testBuzzer.o
+ .text          0x00000000        0x0 ./Core/Src/testBuzzer.o
+ .data          0x00000000        0x0 ./Core/Src/testBuzzer.o
+ .bss           0x00000000        0x0 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000      0xaa8 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000      0x215 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0x2e ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0x22 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0x22 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0x8e ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0x51 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000      0x103 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0x6a ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000      0x1df ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0x1c ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0x22 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0xbd ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000      0xd23 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000     0xfd8c ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0x6d ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000     0x34a2 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000      0x189 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0x5c ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000      0x5bc ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000      0x4d5 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000      0x1cb ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000      0x114 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000      0x1ea ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0x27 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000      0x144 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000      0x1bc ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0x30 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0x3c ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0x57 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0x87 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000      0x24f ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000      0x140 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000      0x8ed ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0xb5 ./Core/Src/testBuzzer.o
+ .debug_macro   0x00000000       0x34 ./Core/Src/testBuzzer.o
  .group         0x00000000        0xc ./Core/Src/tim.o
  .group         0x00000000        0xc ./Core/Src/tim.o
  .group         0x00000000        0xc ./Core/Src/tim.o
@@ -2764,7 +2764,6 @@ Linker script and memory map
 LOAD D:/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crti.o
 LOAD D:/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
 LOAD D:/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
-LOAD ./Core/Src/Buzzer.o
 LOAD ./Core/Src/gpio.o
 LOAD ./Core/Src/led_control.o
 LOAD ./Core/Src/main.o
@@ -2774,6 +2773,7 @@ LOAD ./Core/Src/stm32f1xx_it.o
 LOAD ./Core/Src/syscalls.o
 LOAD ./Core/Src/sysmem.o
 LOAD ./Core/Src/system_stm32f1xx.o
+LOAD ./Core/Src/testBuzzer.o
 LOAD ./Core/Src/tim.o
 LOAD ./Core/Startup/startup_stm32f103rctx.o
 LOAD ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
@@ -2825,69 +2825,69 @@ LOAD D:/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
  *(.text)
  .text          0x080001e4       0x40 D:/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
  *(.text*)
- .text.Buzzer_PWM_Init
-                0x08000224       0x14 ./Core/Src/Buzzer.o
-                0x08000224                Buzzer_PWM_Init
- .text.Buzzer_PWM_On
-                0x08000238       0x54 ./Core/Src/Buzzer.o
-                0x08000238                Buzzer_PWM_On
- .text.Buzzer_PWM_Off
-                0x0800028c       0x14 ./Core/Src/Buzzer.o
-                0x0800028c                Buzzer_PWM_Off
  .text.MX_GPIO_Init
-                0x080002a0       0x44 ./Core/Src/gpio.o
-                0x080002a0                MX_GPIO_Init
- .text.main     0x080002e4       0x34 ./Core/Src/main.o
-                0x080002e4                main
+                0x08000224       0x44 ./Core/Src/gpio.o
+                0x08000224                MX_GPIO_Init
+ .text.main     0x08000268       0x34 ./Core/Src/main.o
+                0x08000268                main
  .text.SystemClock_Config
-                0x08000318       0x82 ./Core/Src/main.o
-                0x08000318                SystemClock_Config
+                0x0800029c       0x82 ./Core/Src/main.o
+                0x0800029c                SystemClock_Config
  .text.Error_Handler
-                0x0800039a        0xc ./Core/Src/main.o
-                0x0800039a                Error_Handler
- *fill*         0x080003a6        0x2 
+                0x0800031e        0xc ./Core/Src/main.o
+                0x0800031e                Error_Handler
+ *fill*         0x0800032a        0x2 
  .text.timerRun
-                0x080003a8       0x74 ./Core/Src/software_timer.o
-                0x080003a8                timerRun
+                0x0800032c       0x74 ./Core/Src/software_timer.o
+                0x0800032c                timerRun
  .text.HAL_MspInit
-                0x0800041c       0x64 ./Core/Src/stm32f1xx_hal_msp.o
-                0x0800041c                HAL_MspInit
+                0x080003a0       0x64 ./Core/Src/stm32f1xx_hal_msp.o
+                0x080003a0                HAL_MspInit
  .text.NMI_Handler
-                0x08000480        0x8 ./Core/Src/stm32f1xx_it.o
-                0x08000480                NMI_Handler
+                0x08000404        0x8 ./Core/Src/stm32f1xx_it.o
+                0x08000404                NMI_Handler
  .text.HardFault_Handler
-                0x08000488        0x8 ./Core/Src/stm32f1xx_it.o
-                0x08000488                HardFault_Handler
+                0x0800040c        0x8 ./Core/Src/stm32f1xx_it.o
+                0x0800040c                HardFault_Handler
  .text.MemManage_Handler
-                0x08000490        0x8 ./Core/Src/stm32f1xx_it.o
-                0x08000490                MemManage_Handler
+                0x08000414        0x8 ./Core/Src/stm32f1xx_it.o
+                0x08000414                MemManage_Handler
  .text.BusFault_Handler
-                0x08000498        0x8 ./Core/Src/stm32f1xx_it.o
-                0x08000498                BusFault_Handler
+                0x0800041c        0x8 ./Core/Src/stm32f1xx_it.o
+                0x0800041c                BusFault_Handler
  .text.UsageFault_Handler
-                0x080004a0        0x8 ./Core/Src/stm32f1xx_it.o
-                0x080004a0                UsageFault_Handler
+                0x08000424        0x8 ./Core/Src/stm32f1xx_it.o
+                0x08000424                UsageFault_Handler
  .text.SVC_Handler
-                0x080004a8        0xc ./Core/Src/stm32f1xx_it.o
-                0x080004a8                SVC_Handler
+                0x0800042c        0xc ./Core/Src/stm32f1xx_it.o
+                0x0800042c                SVC_Handler
  .text.DebugMon_Handler
-                0x080004b4        0xc ./Core/Src/stm32f1xx_it.o
-                0x080004b4                DebugMon_Handler
+                0x08000438        0xc ./Core/Src/stm32f1xx_it.o
+                0x08000438                DebugMon_Handler
  .text.PendSV_Handler
-                0x080004c0        0xc ./Core/Src/stm32f1xx_it.o
-                0x080004c0                PendSV_Handler
+                0x08000444        0xc ./Core/Src/stm32f1xx_it.o
+                0x08000444                PendSV_Handler
  .text.SysTick_Handler
-                0x080004cc        0xc ./Core/Src/stm32f1xx_it.o
-                0x080004cc                SysTick_Handler
+                0x08000450        0xc ./Core/Src/stm32f1xx_it.o
+                0x08000450                SysTick_Handler
  .text.TIM2_IRQHandler
-                0x080004d8       0x14 ./Core/Src/stm32f1xx_it.o
-                0x080004d8                TIM2_IRQHandler
+                0x0800045c       0x14 ./Core/Src/stm32f1xx_it.o
+                0x0800045c                TIM2_IRQHandler
  .text.TIM3_IRQHandler
-                0x080004ec       0x14 ./Core/Src/stm32f1xx_it.o
-                0x080004ec                TIM3_IRQHandler
+                0x08000470       0x14 ./Core/Src/stm32f1xx_it.o
+                0x08000470                TIM3_IRQHandler
  .text.SystemInit
-                0x08000500        0xc ./Core/Src/system_stm32f1xx.o
-                0x08000500                SystemInit
+                0x08000484        0xc ./Core/Src/system_stm32f1xx.o
+                0x08000484                SystemInit
+ .text.Buzzer_PWM_Init
+                0x08000490       0x14 ./Core/Src/testBuzzer.o
+                0x08000490                Buzzer_PWM_Init
+ .text.Buzzer_PWM_On
+                0x080004a4       0x54 ./Core/Src/testBuzzer.o
+                0x080004a4                Buzzer_PWM_On
+ .text.Buzzer_PWM_Off
+                0x080004f8       0x14 ./Core/Src/testBuzzer.o
+                0x080004f8                Buzzer_PWM_Off
  .text.MX_TIM2_Init
                 0x0800050c       0xec ./Core/Src/tim.o
                 0x0800050c                MX_TIM2_Init
@@ -3251,19 +3251,19 @@ LOAD D:/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
  .ARM.attributes
                 0x0000001d       0x2d D:/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
  .ARM.attributes
-                0x0000004a       0x2d ./Core/Src/Buzzer.o
+                0x0000004a       0x2d ./Core/Src/gpio.o
  .ARM.attributes
-                0x00000077       0x2d ./Core/Src/gpio.o
+                0x00000077       0x2d ./Core/Src/main.o
  .ARM.attributes
-                0x000000a4       0x2d ./Core/Src/main.o
+                0x000000a4       0x2d ./Core/Src/software_timer.o
  .ARM.attributes
-                0x000000d1       0x2d ./Core/Src/software_timer.o
+                0x000000d1       0x2d ./Core/Src/stm32f1xx_hal_msp.o
  .ARM.attributes
-                0x000000fe       0x2d ./Core/Src/stm32f1xx_hal_msp.o
+                0x000000fe       0x2d ./Core/Src/stm32f1xx_it.o
  .ARM.attributes
-                0x0000012b       0x2d ./Core/Src/stm32f1xx_it.o
+                0x0000012b       0x2d ./Core/Src/system_stm32f1xx.o
  .ARM.attributes
-                0x00000158       0x2d ./Core/Src/system_stm32f1xx.o
+                0x00000158       0x2d ./Core/Src/testBuzzer.o
  .ARM.attributes
                 0x00000185       0x2d ./Core/Src/tim.o
  .ARM.attributes
@@ -3293,13 +3293,13 @@ LOAD D:/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
 LOAD D:/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp\libgcc.a
 
 .debug_info     0x00000000     0x81c4
- .debug_info    0x00000000      0x6b6 ./Core/Src/Buzzer.o
- .debug_info    0x000006b6      0x169 ./Core/Src/gpio.o
- .debug_info    0x0000081f      0x2ca ./Core/Src/main.o
- .debug_info    0x00000ae9      0x122 ./Core/Src/software_timer.o
- .debug_info    0x00000c0b      0x1f1 ./Core/Src/stm32f1xx_hal_msp.o
- .debug_info    0x00000dfc      0x6b9 ./Core/Src/stm32f1xx_it.o
- .debug_info    0x000014b5      0x222 ./Core/Src/system_stm32f1xx.o
+ .debug_info    0x00000000      0x169 ./Core/Src/gpio.o
+ .debug_info    0x00000169      0x2ca ./Core/Src/main.o
+ .debug_info    0x00000433      0x122 ./Core/Src/software_timer.o
+ .debug_info    0x00000555      0x1f1 ./Core/Src/stm32f1xx_hal_msp.o
+ .debug_info    0x00000746      0x6b9 ./Core/Src/stm32f1xx_it.o
+ .debug_info    0x00000dff      0x222 ./Core/Src/system_stm32f1xx.o
+ .debug_info    0x00001021      0x6b6 ./Core/Src/testBuzzer.o
  .debug_info    0x000016d7      0xcf2 ./Core/Src/tim.o
  .debug_info    0x000023c9       0x30 ./Core/Startup/startup_stm32f103rctx.o
  .debug_info    0x000023f9      0x76a ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
@@ -3310,13 +3310,13 @@ LOAD D:/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
  .debug_info    0x00006d29     0x149b ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
 
 .debug_abbrev   0x00000000     0x1981
- .debug_abbrev  0x00000000      0x1a6 ./Core/Src/Buzzer.o
- .debug_abbrev  0x000001a6       0xc6 ./Core/Src/gpio.o
- .debug_abbrev  0x0000026c      0x19c ./Core/Src/main.o
- .debug_abbrev  0x00000408       0xb2 ./Core/Src/software_timer.o
- .debug_abbrev  0x000004ba       0xdb ./Core/Src/stm32f1xx_hal_msp.o
- .debug_abbrev  0x00000595      0x193 ./Core/Src/stm32f1xx_it.o
- .debug_abbrev  0x00000728      0x13f ./Core/Src/system_stm32f1xx.o
+ .debug_abbrev  0x00000000       0xc6 ./Core/Src/gpio.o
+ .debug_abbrev  0x000000c6      0x19c ./Core/Src/main.o
+ .debug_abbrev  0x00000262       0xb2 ./Core/Src/software_timer.o
+ .debug_abbrev  0x00000314       0xdb ./Core/Src/stm32f1xx_hal_msp.o
+ .debug_abbrev  0x000003ef      0x193 ./Core/Src/stm32f1xx_it.o
+ .debug_abbrev  0x00000582      0x13f ./Core/Src/system_stm32f1xx.o
+ .debug_abbrev  0x000006c1      0x1a6 ./Core/Src/testBuzzer.o
  .debug_abbrev  0x00000867      0x287 ./Core/Src/tim.o
  .debug_abbrev  0x00000aee       0x24 ./Core/Startup/startup_stm32f103rctx.o
  .debug_abbrev  0x00000b12      0x201 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
@@ -3328,19 +3328,19 @@ LOAD D:/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
 
 .debug_aranges  0x00000000      0x9d8
  .debug_aranges
-                0x00000000       0x30 ./Core/Src/Buzzer.o
+                0x00000000       0x20 ./Core/Src/gpio.o
  .debug_aranges
-                0x00000030       0x20 ./Core/Src/gpio.o
+                0x00000020       0x30 ./Core/Src/main.o
  .debug_aranges
-                0x00000050       0x30 ./Core/Src/main.o
+                0x00000050       0x30 ./Core/Src/software_timer.o
  .debug_aranges
-                0x00000080       0x30 ./Core/Src/software_timer.o
+                0x00000080       0x20 ./Core/Src/stm32f1xx_hal_msp.o
  .debug_aranges
-                0x000000b0       0x20 ./Core/Src/stm32f1xx_hal_msp.o
+                0x000000a0       0x70 ./Core/Src/stm32f1xx_it.o
  .debug_aranges
-                0x000000d0       0x70 ./Core/Src/stm32f1xx_it.o
+                0x00000110       0x28 ./Core/Src/system_stm32f1xx.o
  .debug_aranges
-                0x00000140       0x28 ./Core/Src/system_stm32f1xx.o
+                0x00000138       0x30 ./Core/Src/testBuzzer.o
  .debug_aranges
                 0x00000168       0x48 ./Core/Src/tim.o
  .debug_aranges
@@ -3361,19 +3361,19 @@ LOAD D:/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
 .debug_rnglists
                 0x00000000      0x783
  .debug_rnglists
-                0x00000000       0x1f ./Core/Src/Buzzer.o
+                0x00000000       0x13 ./Core/Src/gpio.o
  .debug_rnglists
-                0x0000001f       0x13 ./Core/Src/gpio.o
+                0x00000013       0x20 ./Core/Src/main.o
  .debug_rnglists
-                0x00000032       0x20 ./Core/Src/main.o
+                0x00000033       0x1f ./Core/Src/software_timer.o
  .debug_rnglists
-                0x00000052       0x1f ./Core/Src/software_timer.o
+                0x00000052       0x13 ./Core/Src/stm32f1xx_hal_msp.o
  .debug_rnglists
-                0x00000071       0x13 ./Core/Src/stm32f1xx_hal_msp.o
+                0x00000065       0x4f ./Core/Src/stm32f1xx_it.o
  .debug_rnglists
-                0x00000084       0x4f ./Core/Src/stm32f1xx_it.o
+                0x000000b4       0x1a ./Core/Src/system_stm32f1xx.o
  .debug_rnglists
-                0x000000d3       0x1a ./Core/Src/system_stm32f1xx.o
+                0x000000ce       0x1f ./Core/Src/testBuzzer.o
  .debug_rnglists
                 0x000000ed       0x35 ./Core/Src/tim.o
  .debug_rnglists
@@ -3392,49 +3392,49 @@ LOAD D:/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
                 0x0000065e      0x125 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
 
 .debug_macro    0x00000000    0x18d1f
- .debug_macro   0x00000000      0x1b2 ./Core/Src/Buzzer.o
- .debug_macro   0x000001b2      0xaa8 ./Core/Src/Buzzer.o
- .debug_macro   0x00000c5a      0x215 ./Core/Src/Buzzer.o
- .debug_macro   0x00000e6f       0x2e ./Core/Src/Buzzer.o
- .debug_macro   0x00000e9d       0x22 ./Core/Src/Buzzer.o
- .debug_macro   0x00000ebf       0x22 ./Core/Src/Buzzer.o
- .debug_macro   0x00000ee1       0x8e ./Core/Src/Buzzer.o
- .debug_macro   0x00000f6f       0x51 ./Core/Src/Buzzer.o
- .debug_macro   0x00000fc0      0x103 ./Core/Src/Buzzer.o
- .debug_macro   0x000010c3       0x6a ./Core/Src/Buzzer.o
- .debug_macro   0x0000112d      0x1df ./Core/Src/Buzzer.o
- .debug_macro   0x0000130c       0x1c ./Core/Src/Buzzer.o
- .debug_macro   0x00001328       0x22 ./Core/Src/Buzzer.o
- .debug_macro   0x0000134a       0xbd ./Core/Src/Buzzer.o
- .debug_macro   0x00001407      0xd23 ./Core/Src/Buzzer.o
- .debug_macro   0x0000212a     0xfd8c ./Core/Src/Buzzer.o
- .debug_macro   0x00011eb6       0x6d ./Core/Src/Buzzer.o
- .debug_macro   0x00011f23     0x34a2 ./Core/Src/Buzzer.o
- .debug_macro   0x000153c5      0x189 ./Core/Src/Buzzer.o
- .debug_macro   0x0001554e       0x5c ./Core/Src/Buzzer.o
- .debug_macro   0x000155aa      0x5bc ./Core/Src/Buzzer.o
- .debug_macro   0x00015b66      0x4d5 ./Core/Src/Buzzer.o
- .debug_macro   0x0001603b      0x1cb ./Core/Src/Buzzer.o
- .debug_macro   0x00016206      0x114 ./Core/Src/Buzzer.o
- .debug_macro   0x0001631a      0x1ea ./Core/Src/Buzzer.o
- .debug_macro   0x00016504       0x27 ./Core/Src/Buzzer.o
- .debug_macro   0x0001652b      0x144 ./Core/Src/Buzzer.o
- .debug_macro   0x0001666f      0x1bc ./Core/Src/Buzzer.o
- .debug_macro   0x0001682b       0x30 ./Core/Src/Buzzer.o
- .debug_macro   0x0001685b       0x3c ./Core/Src/Buzzer.o
- .debug_macro   0x00016897       0x57 ./Core/Src/Buzzer.o
- .debug_macro   0x000168ee       0x87 ./Core/Src/Buzzer.o
- .debug_macro   0x00016975      0x24f ./Core/Src/Buzzer.o
- .debug_macro   0x00016bc4      0x140 ./Core/Src/Buzzer.o
- .debug_macro   0x00016d04      0x8ed ./Core/Src/Buzzer.o
- .debug_macro   0x000175f1       0xb5 ./Core/Src/Buzzer.o
- .debug_macro   0x000176a6       0x34 ./Core/Src/Buzzer.o
- .debug_macro   0x000176da      0x1b2 ./Core/Src/gpio.o
- .debug_macro   0x0001788c      0x1e7 ./Core/Src/main.o
- .debug_macro   0x00017a73      0x1b2 ./Core/Src/software_timer.o
- .debug_macro   0x00017c25      0x1a8 ./Core/Src/stm32f1xx_hal_msp.o
- .debug_macro   0x00017dcd      0x1b2 ./Core/Src/stm32f1xx_it.o
- .debug_macro   0x00017f7f      0x199 ./Core/Src/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x1b2 ./Core/Src/gpio.o
+ .debug_macro   0x000001b2      0xaa8 ./Core/Src/gpio.o
+ .debug_macro   0x00000c5a      0x215 ./Core/Src/gpio.o
+ .debug_macro   0x00000e6f       0x2e ./Core/Src/gpio.o
+ .debug_macro   0x00000e9d       0x22 ./Core/Src/gpio.o
+ .debug_macro   0x00000ebf       0x22 ./Core/Src/gpio.o
+ .debug_macro   0x00000ee1       0x8e ./Core/Src/gpio.o
+ .debug_macro   0x00000f6f       0x51 ./Core/Src/gpio.o
+ .debug_macro   0x00000fc0      0x103 ./Core/Src/gpio.o
+ .debug_macro   0x000010c3       0x6a ./Core/Src/gpio.o
+ .debug_macro   0x0000112d      0x1df ./Core/Src/gpio.o
+ .debug_macro   0x0000130c       0x1c ./Core/Src/gpio.o
+ .debug_macro   0x00001328       0x22 ./Core/Src/gpio.o
+ .debug_macro   0x0000134a       0xbd ./Core/Src/gpio.o
+ .debug_macro   0x00001407      0xd23 ./Core/Src/gpio.o
+ .debug_macro   0x0000212a     0xfd8c ./Core/Src/gpio.o
+ .debug_macro   0x00011eb6       0x6d ./Core/Src/gpio.o
+ .debug_macro   0x00011f23     0x34a2 ./Core/Src/gpio.o
+ .debug_macro   0x000153c5      0x189 ./Core/Src/gpio.o
+ .debug_macro   0x0001554e       0x5c ./Core/Src/gpio.o
+ .debug_macro   0x000155aa      0x5bc ./Core/Src/gpio.o
+ .debug_macro   0x00015b66      0x4d5 ./Core/Src/gpio.o
+ .debug_macro   0x0001603b      0x1cb ./Core/Src/gpio.o
+ .debug_macro   0x00016206      0x114 ./Core/Src/gpio.o
+ .debug_macro   0x0001631a      0x1ea ./Core/Src/gpio.o
+ .debug_macro   0x00016504       0x27 ./Core/Src/gpio.o
+ .debug_macro   0x0001652b      0x144 ./Core/Src/gpio.o
+ .debug_macro   0x0001666f      0x1bc ./Core/Src/gpio.o
+ .debug_macro   0x0001682b       0x30 ./Core/Src/gpio.o
+ .debug_macro   0x0001685b       0x3c ./Core/Src/gpio.o
+ .debug_macro   0x00016897       0x57 ./Core/Src/gpio.o
+ .debug_macro   0x000168ee       0x87 ./Core/Src/gpio.o
+ .debug_macro   0x00016975      0x24f ./Core/Src/gpio.o
+ .debug_macro   0x00016bc4      0x140 ./Core/Src/gpio.o
+ .debug_macro   0x00016d04      0x8ed ./Core/Src/gpio.o
+ .debug_macro   0x000175f1       0xb5 ./Core/Src/gpio.o
+ .debug_macro   0x000176a6       0x34 ./Core/Src/gpio.o
+ .debug_macro   0x000176da      0x1e7 ./Core/Src/main.o
+ .debug_macro   0x000178c1      0x1b2 ./Core/Src/software_timer.o
+ .debug_macro   0x00017a73      0x1a8 ./Core/Src/stm32f1xx_hal_msp.o
+ .debug_macro   0x00017c1b      0x1b2 ./Core/Src/stm32f1xx_it.o
+ .debug_macro   0x00017dcd      0x199 ./Core/Src/system_stm32f1xx.o
+ .debug_macro   0x00017f66      0x1b2 ./Core/Src/testBuzzer.o
  .debug_macro   0x00018118      0x1cf ./Core/Src/tim.o
  .debug_macro   0x000182e7      0x1bd ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
  .debug_macro   0x000184a4      0x199 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
@@ -3443,64 +3443,64 @@ LOAD D:/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
  .debug_macro   0x000189ec      0x19a ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
  .debug_macro   0x00018b86      0x199 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
 
-.debug_line     0x00000000     0xb8bb
- .debug_line    0x00000000      0x713 ./Core/Src/Buzzer.o
- .debug_line    0x00000713      0x6d5 ./Core/Src/gpio.o
- .debug_line    0x00000de8      0x790 ./Core/Src/main.o
- .debug_line    0x00001578      0x75d ./Core/Src/software_timer.o
- .debug_line    0x00001cd5      0x6d9 ./Core/Src/stm32f1xx_hal_msp.o
- .debug_line    0x000023ae      0x7cb ./Core/Src/stm32f1xx_it.o
- .debug_line    0x00002b79      0x757 ./Core/Src/system_stm32f1xx.o
- .debug_line    0x000032d0      0x8aa ./Core/Src/tim.o
- .debug_line    0x00003b7a       0x79 ./Core/Startup/startup_stm32f103rctx.o
- .debug_line    0x00003bf3      0x984 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
- .debug_line    0x00004577      0xb70 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
- .debug_line    0x000050e7      0xa45 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
- .debug_line    0x00005b2c      0xd8d ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
- .debug_line    0x000068b9     0x36c9 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
- .debug_line    0x00009f82     0x1939 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
+.debug_line     0x00000000     0xb8c7
+ .debug_line    0x00000000      0x6d5 ./Core/Src/gpio.o
+ .debug_line    0x000006d5      0x794 ./Core/Src/main.o
+ .debug_line    0x00000e69      0x75d ./Core/Src/software_timer.o
+ .debug_line    0x000015c6      0x6d9 ./Core/Src/stm32f1xx_hal_msp.o
+ .debug_line    0x00001c9f      0x7cb ./Core/Src/stm32f1xx_it.o
+ .debug_line    0x0000246a      0x757 ./Core/Src/system_stm32f1xx.o
+ .debug_line    0x00002bc1      0x71b ./Core/Src/testBuzzer.o
+ .debug_line    0x000032dc      0x8aa ./Core/Src/tim.o
+ .debug_line    0x00003b86       0x79 ./Core/Startup/startup_stm32f103rctx.o
+ .debug_line    0x00003bff      0x984 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_line    0x00004583      0xb70 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_line    0x000050f3      0xa45 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_line    0x00005b38      0xd8d ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_line    0x000068c5     0x36c9 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
+ .debug_line    0x00009f8e     0x1939 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
 
-.debug_str      0x00000000    0x928e6
- .debug_str     0x00000000    0x8fee0 ./Core/Src/Buzzer.o
-                              0x90367 (size before relaxing)
- .debug_str     0x0008fee0       0x72 ./Core/Src/gpio.o
+.debug_str      0x00000000    0x928ee
+ .debug_str     0x00000000    0x8fa73 ./Core/Src/gpio.o
                               0x8fe51 (size before relaxing)
- .debug_str     0x0008ff52      0x403 ./Core/Src/main.o
-                              0x9026f (size before relaxing)
- .debug_str     0x00090355       0x6b ./Core/Src/software_timer.o
+ .debug_str     0x0008fa73      0x47b ./Core/Src/main.o
+                              0x90273 (size before relaxing)
+ .debug_str     0x0008feee       0x6b ./Core/Src/software_timer.o
                               0x8fe4d (size before relaxing)
- .debug_str     0x000903c0       0x5a ./Core/Src/stm32f1xx_hal_msp.o
+ .debug_str     0x0008ff59       0x5a ./Core/Src/stm32f1xx_hal_msp.o
                               0x8fe7f (size before relaxing)
- .debug_str     0x0009041a      0x102 ./Core/Src/stm32f1xx_it.o
+ .debug_str     0x0008ffb3      0x518 ./Core/Src/stm32f1xx_it.o
                               0x9039b (size before relaxing)
- .debug_str     0x0009051c       0x88 ./Core/Src/system_stm32f1xx.o
+ .debug_str     0x000904cb       0x88 ./Core/Src/system_stm32f1xx.o
                               0x8fde5 (size before relaxing)
- .debug_str     0x000905a4      0x5ab ./Core/Src/tim.o
+ .debug_str     0x00090553       0x59 ./Core/Src/testBuzzer.o
+                              0x9036f (size before relaxing)
+ .debug_str     0x000905ac      0x5ab ./Core/Src/tim.o
                               0x90c24 (size before relaxing)
- .debug_str     0x00090b4f       0x44 ./Core/Startup/startup_stm32f103rctx.o
+ .debug_str     0x00090b57       0x44 ./Core/Startup/startup_stm32f103rctx.o
                                  0x58 (size before relaxing)
- .debug_str     0x00090b93      0x384 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_str     0x00090b9b      0x384 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
                               0x905fc (size before relaxing)
- .debug_str     0x00090f17      0x294 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_str     0x00090f1f      0x294 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
                               0x90548 (size before relaxing)
- .debug_str     0x000911ab      0x332 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_str     0x000911b3      0x332 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
                               0x9016b (size before relaxing)
- .debug_str     0x000914dd      0x229 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_str     0x000914e5      0x229 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
                               0x90214 (size before relaxing)
- .debug_str     0x00091706      0xd4d ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
+ .debug_str     0x0009170e      0xd4d ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
                               0x91216 (size before relaxing)
- .debug_str     0x00092453      0x493 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
+ .debug_str     0x0009245b      0x493 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
                               0x90a22 (size before relaxing)
 
 .comment        0x00000000       0x43
- .comment       0x00000000       0x43 ./Core/Src/Buzzer.o
+ .comment       0x00000000       0x43 ./Core/Src/gpio.o
                                  0x44 (size before relaxing)
- .comment       0x00000043       0x44 ./Core/Src/gpio.o
  .comment       0x00000043       0x44 ./Core/Src/main.o
  .comment       0x00000043       0x44 ./Core/Src/software_timer.o
  .comment       0x00000043       0x44 ./Core/Src/stm32f1xx_hal_msp.o
  .comment       0x00000043       0x44 ./Core/Src/stm32f1xx_it.o
  .comment       0x00000043       0x44 ./Core/Src/system_stm32f1xx.o
+ .comment       0x00000043       0x44 ./Core/Src/testBuzzer.o
  .comment       0x00000043       0x44 ./Core/Src/tim.o
  .comment       0x00000043       0x44 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
  .comment       0x00000043       0x44 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
@@ -3510,13 +3510,13 @@ LOAD D:/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
  .comment       0x00000043       0x44 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
 
 .debug_frame    0x00000000     0x273c
- .debug_frame   0x00000000       0x6c ./Core/Src/Buzzer.o
- .debug_frame   0x0000006c       0x38 ./Core/Src/gpio.o
- .debug_frame   0x000000a4       0x68 ./Core/Src/main.o
- .debug_frame   0x0000010c       0x80 ./Core/Src/software_timer.o
- .debug_frame   0x0000018c       0x38 ./Core/Src/stm32f1xx_hal_msp.o
- .debug_frame   0x000001c4      0x13c ./Core/Src/stm32f1xx_it.o
- .debug_frame   0x00000300       0x58 ./Core/Src/system_stm32f1xx.o
+ .debug_frame   0x00000000       0x38 ./Core/Src/gpio.o
+ .debug_frame   0x00000038       0x68 ./Core/Src/main.o
+ .debug_frame   0x000000a0       0x80 ./Core/Src/software_timer.o
+ .debug_frame   0x00000120       0x38 ./Core/Src/stm32f1xx_hal_msp.o
+ .debug_frame   0x00000158      0x13c ./Core/Src/stm32f1xx_it.o
+ .debug_frame   0x00000294       0x58 ./Core/Src/system_stm32f1xx.o
+ .debug_frame   0x000002ec       0x6c ./Core/Src/testBuzzer.o
  .debug_frame   0x00000358       0xe8 ./Core/Src/tim.o
  .debug_frame   0x00000440      0x334 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
  .debug_frame   0x00000774      0x428 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o

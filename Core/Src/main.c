@@ -17,6 +17,7 @@
   */
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
+#include <testBuzzer.h>
 #include "main.h"
 #include "tim.h"
 #include "gpio.h"
@@ -25,7 +26,6 @@
 /* USER CODE BEGIN Includes */
 #include "software_timer.h"
 #include "led_control.h"
-#include "Buzzer.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/

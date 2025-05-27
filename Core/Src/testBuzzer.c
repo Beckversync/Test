@@ -4,7 +4,7 @@
  *  Created on: May 27, 2025
  *      Author: Dell
  */
-#include "buzzer.h"
+#include <testBuzzer.h>
 
 extern TIM_HandleTypeDef htim2;
 
