@@ -1,3 +1,4 @@
+"./Core/Src/Buzzer.o"
 "./Core/Src/gpio.o"
 "./Core/Src/led_control.o"
 "./Core/Src/main.o"
